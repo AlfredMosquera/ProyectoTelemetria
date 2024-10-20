@@ -1,6 +1,6 @@
 arduinos
 esp32
 panel solar
-sensores
+sensores (los sensores básicos)
 batería
 cables jumper
