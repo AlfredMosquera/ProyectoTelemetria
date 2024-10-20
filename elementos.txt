@@ -1,0 +1,6 @@
+arduinos
+esp32
+panel solar
+sensores
+batería
+cables jumper
